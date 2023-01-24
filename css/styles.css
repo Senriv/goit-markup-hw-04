@@ -194,12 +194,12 @@ body {
 .benefits__inner {
   background-color: #f4f4fd;
   border-radius: 4px;
-  margin-bottom: 4px;
-  padding: 24px 0;
-}
-
-.benefits-icon {
+  margin-bottom: 7px;
   width: 264px;
+  height: 112px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .benefits__title {
